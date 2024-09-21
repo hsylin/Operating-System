@@ -1,0 +1,37 @@
+ms=539
+Task zzz is running.
+Task zzz releases resource 0.
+Task zzz releases resource 4.
+Task zzz releases resource 7.
+Task zzz has terminated.
+count_ms=540
+CPU idle.
+Simualtion over.
+             TID|            name|           state|         running|         waiting|      turnaround|       resources|        priority
+---------------------------------------------------------------------------------------------------------------------------------------
+               1|             aaa|      TERMINATED|               9|               2|              11|            none|            none
+               2|             bbb|      TERMINATED|               9|              12|              21|            none|            none
+               3|             ccc|      TERMINATED|               8|              22|              30|            none|            none
+               4|             ddd|      TERMINATED|               9|              31|              40|            none|            none
+               5|             eee|      TERMINATED|               8|              41|              49|            none|            none
+               6|             fff|      TERMINATED|               9|              50|              59|            none|            none
+               7|             ggg|      TERMINATED|               9|              60|              69|            none|            none
+               8|             hhh|      TERMINATED|               8|              70|              78|            none|            none
+               9|             iii|      TERMINATED|               9|              79|              88|            none|            none
+              10|             jjj|      TERMINATED|               8|              89|              97|            none|            none
+              11|             kkk|      TERMINATED|               9|              98|             107|            none|            none
+              12|             lll|      TERMINATED|               9|             108|             117|            none|            none
+              13|             mmm|      TERMINATED|               9|             118|             127|            none|            none
+              14|             nnn|      TERMINATED|               9|             128|             137|            none|            none
+              15|             ooo|      TERMINATED|               9|             138|             147|            none|            none
+              16|             ppp|      TERMINATED|              10|             148|             158|            none|            none
+              17|             qqq|      TERMINATED|               9|             159|             168|            none|            none
+              18|             rrr|      TERMINATED|               8|             169|             177|            none|            none
+              19|             sss|      TERMINATED|              35|             178|             213|            none|            none
+              20|             ttt|      TERMINATED|              34|             214|             248|            none|            none
+              21|             uuu|      TERMINATED|              52|             249|             301|            none|            none
+              22|             vvv|      TERMINATED|               1|             303|             375|            none|            none
+              23|             www|      TERMINATED|               3|             306|             442|            none|            none
+              24|             xxx|      TERMINATED|               3|             308|             504|            none|            none
+              25|             yyy|      TERMINATED|               3|             311|             525|            none|            none
+              26|             zzz|      TERMINATED|               4|             315|             548|            none|            none

@@ -1,0 +1,196 @@
+_ms=135
+CPU idle.
+count_ms=136
+CPU idle.
+count_ms=137
+CPU idle.
+count_ms=138
+CPU idle.
+count_ms=139
+CPU idle.
+count_ms=140
+CPU idle.
+count_ms=141
+CPU idle.
+count_ms=142
+CPU idle.
+count_ms=143
+CPU idle.
+count_ms=144
+CPU idle.
+count_ms=145
+CPU idle.
+count_ms=146
+CPU idle.
+count_ms=147
+CPU idle.
+count_ms=148
+CPU idle.
+count_ms=149
+CPU idle.
+count_ms=150
+CPU idle.
+count_ms=151
+CPU idle.
+count_ms=152
+CPU idle.
+count_ms=153
+CPU idle.
+count_ms=154
+CPU idle.
+count_ms=155
+CPU idle.
+count_ms=156
+Task ddd is running.
+Task ddd releases resource 1.
+Task ddd releases resource 3.
+Task ddd releases resource 6.
+Task ddd has terminated.
+count_ms=157
+CPU idle.
+count_ms=158
+CPU idle.
+count_ms=159
+CPU idle.
+count_ms=160
+CPU idle.
+count_ms=161
+CPU idle.
+count_ms=162
+CPU idle.
+count_ms=163
+CPU idle.
+count_ms=164
+CPU idle.
+count_ms=165
+CPU idle.
+count_ms=166
+CPU idle.
+count_ms=167
+CPU idle.
+count_ms=168
+CPU idle.
+count_ms=169
+CPU idle.
+count_ms=170
+CPU idle.
+count_ms=171
+CPU idle.
+count_ms=172
+CPU idle.
+count_ms=173
+CPU idle.
+count_ms=174
+CPU idle.
+count_ms=175
+CPU idle.
+count_ms=176
+CPU idle.
+count_ms=177
+Task ccc is running.
+Task ccc releases resource 2.
+Task ccc releases resource 4.
+Task ccc has terminated.
+count_ms=178
+Task fff is running.
+5
+Task fff gets resouces 4.
+5
+Task fff gets resouces 6.
+Task fff goes to sleep.
+count_ms=179
+CPU idle.
+count_ms=180
+CPU idle.
+count_ms=181
+CPU idle.
+count_ms=182
+CPU idle.
+count_ms=183
+CPU idle.
+count_ms=184
+CPU idle.
+count_ms=185
+CPU idle.
+count_ms=186
+CPU idle.
+count_ms=187
+CPU idle.
+count_ms=188
+CPU idle.
+count_ms=189
+CPU idle.
+count_ms=190
+CPU idle.
+count_ms=191
+CPU idle.
+count_ms=192
+CPU idle.
+count_ms=193
+CPU idle.
+count_ms=194
+CPU idle.
+count_ms=195
+CPU idle.
+count_ms=196
+CPU idle.
+count_ms=197
+CPU idle.
+count_ms=198
+CPU idle.
+count_ms=199
+CPU idle.
+count_ms=200
+CPU idle.
+count_ms=201
+CPU idle.
+count_ms=202
+CPU idle.
+count_ms=203
+CPU idle.
+count_ms=204
+CPU idle.
+count_ms=205
+CPU idle.
+count_ms=206
+CPU idle.
+count_ms=207
+CPU idle.
+count_ms=208
+CPU idle.
+count_ms=209
+CPU idle.
+count_ms=210
+CPU idle.
+count_ms=211
+CPU idle.
+count_ms=212
+CPU idle.
+count_ms=213
+CPU idle.
+count_ms=214
+CPU idle.
+count_ms=215
+CPU idle.
+count_ms=216
+CPU idle.
+count_ms=217
+CPU idle.
+count_ms=218
+CPU idle.
+count_ms=219
+Task fff is running.
+Task fff releases resource 4.
+Task fff releases resource 5.
+Task fff releases resource 6.
+Task fff has terminated.
+count_ms=220
+CPU idle.
+Simualtion over.
+             TID|            name|           state|         running|         waiting|      turnaround|       resources|        priority
+---------------------------------------------------------------------------------------------------------------------------------------
+              1|             aaa|              TERMINATED|              1|              4|              76|                |               2|
+              2|             ccc|              TERMINATED|              3|              11|              184|                |               5|
+              3|             ddd|              TERMINATED|              2|              8|              161|                |               4|
+              4|             eee|              TERMINATED|              2|              6|              120|                |               3|
+              5|             fff|              TERMINATED|              3|              5|              226|                |               1|

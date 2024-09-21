@@ -1,0 +1,274 @@
+Task kkk is ready.
+Task kkk is killed.
+Task aaa is ready.
+Task bbb is ready.
+Task ccc is ready.
+Task bbb is killed.
+Task ddd is ready.
+Task eee is ready.
+Task fff is ready.
+Task ggg is ready.
+Task hhh is ready.
+Task iii is ready.
+Task iii is killed.
+Task hhh is killed.
+Task aaa is killed.
+Task ccc is killed.
+
+Start simulation.
+count_ms=1
+Task ddd is running.
+Task ddd has terminated.
+count_ms=2
+Task eee is running.
+count_ms=3
+count_ms=4
+count_ms=5
+count_ms=6
+Task fff is running.
+Task fff has terminated.
+count_ms=7
+Task ggg is running.
+count_ms=8
+count_ms=9
+count_ms=10
+count_ms=11
+Task eee is running.
+count_ms=12
+count_ms=13
+count_ms=14
+count_ms=15
+Task ggg is running.
+count_ms=16
+count_ms=17
+count_ms=18
+count_ms=19
+Task eee is running.
+count_ms=20
+count_ms=21
+count_ms=22
+count_ms=23
+Task ggg is running.
+count_ms=24
+count_ms=25
+count_ms=26
+count_ms=27
+Task eee is running.
+count_ms=28
+count_ms=29
+count_ms=30
+count_ms=31
+Task ggg is running.
+count_ms=32
+count_ms=33
+count_ms=34
+count_ms=35
+Task eee is running.
+count_ms=36
+count_ms=37
+count_ms=38
+count_ms=39
+Task ggg is running.
+count_ms=40
+count_ms=41
+count_ms=42
+count_ms=43
+Task eee is running.
+count_ms=44
+count_ms=45
+count_ms=46
+count_ms=47
+Task ggg is running.
+count_ms=48
+count_ms=49
+count_ms=50
+count_ms=51
+Task eee is running.
+count_ms=52
+count_ms=53
+count_ms=54
+count_ms=55
+Task ggg is running.
+count_ms=56
+count_ms=57
+count_ms=58
+count_ms=59
+Task eee is running.
+count_ms=60
+count_ms=61
+count_ms=62
+count_ms=63
+Task ggg is running.
+count_ms=64
+count_ms=65
+count_ms=66
+count_ms=67
+Task eee is running.
+count_ms=68
+Task eee has terminated.
+count_ms=69
+Task ggg is running.
+count_ms=70
+Task ggg has terminated.
+count_ms=71
+CPU idle.
+Simualtion over.
+
+Task zzz is ready.
+Task yyy is ready.
+Task xxx is ready.
+Task www is ready.
+Task vvv is ready.
+Task uuu is ready.
+
+Start simulation.
+count_ms=72
+Task zzz is running.
+Task zzz has terminated.
+count_ms=73
+Task yyy is running.
+Task yyy goes to sleep.
+count_ms=74
+Task xxx is running.
+Task xxx has terminated.
+count_ms=75
+Task www is running.
+Task www goes to sleep.
+count_ms=76
+Task vvv is running.
+Task vvv has terminated.
+count_ms=77
+Task uuu is running.
+Task uuu goes to sleep.
+count_ms=78
+CPU idle.
+count_ms=79
+CPU idle.
+count_ms=80
+CPU idle.
+count_ms=81
+CPU idle.
+count_ms=82
+CPU idle.
+count_ms=83
+CPU idle.
+count_ms=84
+CPU idle.
+count_ms=85
+CPU idle.
+count_ms=86
+CPU idle.
+count_ms=87
+CPU idle.
+count_ms=88
+CPU idle.
+count_ms=89
+CPU idle.
+count_ms=90
+CPU idle.
+count_ms=91
+CPU idle.
+count_ms=92
+CPU idle.
+count_ms=93
+CPU idle.
+count_ms=94
+Task yyy is running.
+Task yyy has terminated.
+count_ms=95
+CPU idle.
+count_ms=96
+Task www is running.
+Task www has terminated.
+count_ms=97
+CPU idle.
+count_ms=98
+Task uuu is running.
+Task uuu has terminated.
+count_ms=99
+CPU idle.
+Simualtion over.
+
+Task mmm is ready.
+Task nnn is ready.
+Task ooo is ready.
+
+Start simulation.
+count_ms=100
+Task mmm is running.
+17
+Task mmm gets resouces 1.
+17
+Task mmm gets resouces 3.
+17
+Task mmm gets resouces 7.
+Task mmm goes to sleep.
+count_ms=101
+Task nnn is running.
+Task nnn is waiting resource.
+count_ms=102
+Task ooo is running.
+count_ms=103
+count_ms=104
+count_ms=105
+count_ms=106
+Task mmm is running.
+Task mmm releases resource 1.
+Task mmm releases resource 3.
+Task mmm releases resource 7.
+Task mmm has terminated.
+count_ms=107
+Task ooo is running.
+count_ms=108
+count_ms=109
+count_ms=110
+count_ms=111
+Task nnn is running.
+18
+Task nnn gets resouces 0.
+18
+Task nnn gets resouces 3.
+Task nnn releases resource 0.
+Task nnn releases resource 3.
+Task nnn has terminated.
+count_ms=112
+Task ooo is running.
+count_ms=113
+count_ms=114
+count_ms=115
+count_ms=116
+CPU idle.
+count_ms=117
+Task ooo is running.
+count_ms=118
+count_ms=119
+count_ms=120
+count_ms=121
+CPU idle.
+count_ms=122
+Task ooo is running.
+count_ms=123
+count_ms=124
+count_ms=125
+count_ms=126
+CPU idle.
+count_ms=127
+Task ooo is running.
+count_ms=128
+count_ms=129
+count_ms=130
+count_ms=131
+CPU idle.
+count_ms=132
+Task ooo is running.
+count_ms=133
+count_ms=134
+count_ms=135
+count_ms=136
+CPU idle.
+count_ms=137
+Task ooo is running.
+Task ooo has terminated.
+count_ms=138
+CPU idle.
+Simualtion over.

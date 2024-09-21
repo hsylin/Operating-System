@@ -1,0 +1,206 @@
+314
+CPU idle.
+count_ms=315
+CPU idle.
+count_ms=316
+CPU idle.
+count_ms=317
+CPU idle.
+count_ms=318
+CPU idle.
+count_ms=319
+CPU idle.
+count_ms=320
+CPU idle.
+count_ms=321
+CPU idle.
+count_ms=322
+CPU idle.
+count_ms=323
+CPU idle.
+count_ms=324
+CPU idle.
+count_ms=325
+CPU idle.
+count_ms=326
+CPU idle.
+count_ms=327
+CPU idle.
+count_ms=328
+CPU idle.
+count_ms=329
+CPU idle.
+count_ms=330
+CPU idle.
+count_ms=331
+CPU idle.
+count_ms=332
+CPU idle.
+count_ms=333
+CPU idle.
+count_ms=334
+CPU idle.
+count_ms=335
+CPU idle.
+count_ms=336
+CPU idle.
+count_ms=337
+CPU idle.
+count_ms=338
+CPU idle.
+count_ms=339
+CPU idle.
+count_ms=340
+CPU idle.
+count_ms=341
+CPU idle.
+count_ms=342
+CPU idle.
+count_ms=343
+CPU idle.
+count_ms=344
+CPU idle.
+count_ms=345
+CPU idle.
+count_ms=346
+CPU idle.
+count_ms=347
+CPU idle.
+count_ms=348
+CPU idle.
+count_ms=349
+CPU idle.
+count_ms=350
+CPU idle.
+count_ms=351
+Task xxx is running.
+Task xxx releases resource 2.
+Task xxx releases resource 4.
+Task xxx has terminated.
+count_ms=352
+Task zzz is running.
+Task zzz gets resouces 0.
+Task zzz gets resouces 4.
+Task zzz gets resouces 7.
+Task zzz goes to sleep.
+count_ms=353
+CPU idle.
+count_ms=354
+CPU idle.
+count_ms=355
+CPU idle.
+count_ms=356
+CPU idle.
+count_ms=357
+CPU idle.
+count_ms=358
+CPU idle.
+count_ms=359
+CPU idle.
+count_ms=360
+CPU idle.
+count_ms=361
+CPU idle.
+count_ms=362
+CPU idle.
+count_ms=363
+CPU idle.
+count_ms=364
+CPU idle.
+count_ms=365
+CPU idle.
+count_ms=366
+CPU idle.
+count_ms=367
+CPU idle.
+count_ms=368
+CPU idle.
+count_ms=369
+CPU idle.
+count_ms=370
+CPU idle.
+count_ms=371
+CPU idle.
+count_ms=372
+Task yyy is running.
+Task yyy releases resource 1.
+Task yyy releases resource 3.
+Task yyy releases resource 6.
+Task yyy has terminated.
+count_ms=373
+CPU idle.
+count_ms=374
+CPU idle.
+count_ms=375
+CPU idle.
+count_ms=376
+CPU idle.
+count_ms=377
+CPU idle.
+count_ms=378
+CPU idle.
+count_ms=379
+CPU idle.
+count_ms=380
+CPU idle.
+count_ms=381
+CPU idle.
+count_ms=382
+CPU idle.
+count_ms=383
+CPU idle.
+count_ms=384
+CPU idle.
+count_ms=385
+CPU idle.
+count_ms=386
+CPU idle.
+count_ms=387
+CPU idle.
+count_ms=388
+CPU idle.
+count_ms=389
+CPU idle.
+count_ms=390
+CPU idle.
+count_ms=391
+CPU idle.
+count_ms=392
+CPU idle.
+count_ms=393
+Task zzz is running.
+Task zzz releases resource 0.
+Task zzz releases resource 4.
+Task zzz releases resource 7.
+Task zzz has terminated.
+count_ms=394
+CPU idle.
+Simualtion over.
+             TID|            name|           state|         running|         waiting|      turnaround|       resources|        priority
+---------------------------------------------------------------------------------------------------------------------------------------
+               1|             aaa|      TERMINATED|               8|              87|              95|            none|            none
+               2|             bbb|      TERMINATED|              10|             167|             177|            none|            none
+               3|             ccc|      TERMINATED|              11|             168|             179|            none|            none
+               4|             ddd|      TERMINATED|              11|             170|             181|            none|            none
+               5|             eee|      TERMINATED|              10|             172|             182|            none|            none
+               6|             fff|      TERMINATED|              10|             173|             183|            none|            none
+               7|             ggg|      TERMINATED|              11|             174|             185|            none|            none
+               8|             hhh|      TERMINATED|              11|             176|             187|            none|            none
+               9|             iii|      TERMINATED|              10|             178|             188|            none|            none
+              10|             jjj|      TERMINATED|              10|             179|             189|            none|            none
+              11|             kkk|      TERMINATED|              11|             180|             191|            none|            none
+              12|             lll|      TERMINATED|               8|             131|             139|            none|            none
+              13|             mmm|      TERMINATED|              11|             182|             193|            none|            none
+              14|             nnn|      TERMINATED|              11|             184|             195|            none|            none
+              15|             ooo|      TERMINATED|              11|             186|             197|            none|            none
+              16|             ppp|      TERMINATED|              11|             188|             199|            none|            none
+              17|             qqq|      TERMINATED|              10|             191|             201|            none|            none
+              18|             rrr|      TERMINATED|               8|             155|             163|            none|            none
+              19|             sss|      TERMINATED|              41|             245|             286|            none|            none
+              20|             ttt|      TERMINATED|              42|             247|             289|            none|            none
+              21|             uuu|      TERMINATED|              61|             256|             317|            none|            none
+              22|             vvv|      TERMINATED|               1|             128|             200|            none|            none
+              23|             www|      TERMINATED|               3|             115|             292|            none|            none
+              24|             xxx|      TERMINATED|               3|             109|             358|            none|            none
+              25|             yyy|      TERMINATED|               3|             112|             379|            none|            none
+              26|             zzz|      TERMINATED|               4|             116|             402|            none|            none

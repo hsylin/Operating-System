@@ -1,0 +1,516 @@
+Task kkk is ready.
+Task kkk is killed.
+Task aaa is ready.
+Task bbb is ready.
+Task ccc is ready.
+Task bbb is killed.
+Task ddd is ready.
+Task eee is ready.
+Task fff is ready.
+Task ggg is ready.
+Task hhh is ready.
+Task iii is ready.
+Task iii is killed.
+Task hhh is killed.
+Task aaa is killed.
+Task ccc is killed.
+
+Start simulation.
+top_r->TID=5
+top_r->task_state=ready
+count_ms=1
+Task ddd is running.
+Task ddd has terminated.
+top_r->TID=6
+top_r->task_state=ready
+count_ms=2
+Task eee is running.
+top_r->TID=7
+top_r->task_state=ready
+count_ms=3
+top_r->TID=7
+top_r->task_state=ready
+count_ms=4
+top_r->TID=7
+top_r->task_state=ready
+count_ms=5
+top_r->TID=7
+top_r->task_state=ready
+count_ms=6
+top_r->TID=7
+top_r->task_state=ready
+count_ms=7
+top_r->TID=7
+top_r->task_state=ready
+count_ms=8
+top_r->TID=7
+top_r->task_state=ready
+count_ms=9
+top_r->TID=7
+top_r->task_state=ready
+count_ms=10
+top_r->TID=7
+top_r->task_state=ready
+count_ms=11
+top_r->TID=7
+top_r->task_state=ready
+count_ms=12
+top_r->TID=7
+top_r->task_state=ready
+count_ms=13
+top_r->TID=7
+top_r->task_state=ready
+count_ms=14
+top_r->TID=7
+top_r->task_state=ready
+count_ms=15
+top_r->TID=7
+top_r->task_state=ready
+count_ms=16
+top_r->TID=7
+top_r->task_state=ready
+count_ms=17
+top_r->TID=7
+top_r->task_state=ready
+count_ms=18
+top_r->TID=7
+top_r->task_state=ready
+count_ms=19
+top_r->TID=7
+top_r->task_state=ready
+count_ms=20
+top_r->TID=7
+top_r->task_state=ready
+count_ms=21
+top_r->TID=7
+top_r->task_state=ready
+count_ms=22
+top_r->TID=7
+top_r->task_state=ready
+count_ms=23
+top_r->TID=7
+top_r->task_state=ready
+count_ms=24
+top_r->TID=7
+top_r->task_state=ready
+count_ms=25
+top_r->TID=7
+top_r->task_state=ready
+count_ms=26
+top_r->TID=7
+top_r->task_state=ready
+count_ms=27
+top_r->TID=7
+top_r->task_state=ready
+count_ms=28
+top_r->TID=7
+top_r->task_state=ready
+count_ms=29
+top_r->TID=7
+top_r->task_state=ready
+count_ms=30
+top_r->TID=7
+top_r->task_state=ready
+count_ms=31
+top_r->TID=7
+top_r->task_state=ready
+count_ms=32
+top_r->TID=7
+top_r->task_state=ready
+count_ms=33
+top_r->TID=7
+top_r->task_state=ready
+count_ms=34
+Task eee has terminated.
+top_r->TID=7
+top_r->task_state=ready
+count_ms=35
+Task fff is running.
+Task fff has terminated.
+top_r->TID=8
+top_r->task_state=ready
+count_ms=36
+Task ggg is running.
+top_r->TID=0
+top_r->task_state=
+count_ms=37
+top_r->TID=0
+top_r->task_state=
+count_ms=38
+top_r->TID=0
+top_r->task_state=
+count_ms=39
+top_r->TID=0
+top_r->task_state=
+count_ms=40
+top_r->TID=0
+top_r->task_state=
+count_ms=41
+top_r->TID=0
+top_r->task_state=
+count_ms=42
+top_r->TID=0
+top_r->task_state=
+count_ms=43
+top_r->TID=0
+top_r->task_state=
+count_ms=44
+top_r->TID=0
+top_r->task_state=
+count_ms=45
+top_r->TID=0
+top_r->task_state=
+count_ms=46
+top_r->TID=0
+top_r->task_state=
+count_ms=47
+top_r->TID=0
+top_r->task_state=
+count_ms=48
+top_r->TID=0
+top_r->task_state=
+count_ms=49
+top_r->TID=0
+top_r->task_state=
+count_ms=50
+top_r->TID=0
+top_r->task_state=
+count_ms=51
+top_r->TID=0
+top_r->task_state=
+count_ms=52
+top_r->TID=0
+top_r->task_state=
+count_ms=53
+top_r->TID=0
+top_r->task_state=
+count_ms=54
+top_r->TID=0
+top_r->task_state=
+count_ms=55
+top_r->TID=0
+top_r->task_state=
+count_ms=56
+top_r->TID=0
+top_r->task_state=
+count_ms=57
+top_r->TID=0
+top_r->task_state=
+count_ms=58
+top_r->TID=0
+top_r->task_state=
+count_ms=59
+top_r->TID=0
+top_r->task_state=
+count_ms=60
+top_r->TID=0
+top_r->task_state=
+count_ms=61
+top_r->TID=0
+top_r->task_state=
+count_ms=62
+top_r->TID=0
+top_r->task_state=
+count_ms=63
+top_r->TID=0
+top_r->task_state=
+count_ms=64
+top_r->TID=0
+top_r->task_state=
+count_ms=65
+top_r->TID=0
+top_r->task_state=
+count_ms=66
+top_r->TID=0
+top_r->task_state=
+count_ms=67
+top_r->TID=0
+top_r->task_state=
+count_ms=68
+Task ggg has terminated.
+top_r->TID=0
+top_r->task_state=
+count_ms=69
+CPU idle.
+Simualtion over.
+
+Task zzz is ready.
+Task yyy is ready.
+Task xxx is ready.
+Task www is ready.
+Task vvv is ready.
+Task uuu is ready.
+
+Start simulation.
+top_r->TID=11
+top_r->task_state=ready
+count_ms=70
+Task zzz is running.
+Task zzz has terminated.
+top_r->TID=12
+top_r->task_state=ready
+count_ms=71
+Task yyy is running.
+Task yyy goes to sleep.
+top_r->TID=13
+top_r->task_state=ready
+count_ms=72
+Task xxx is running.
+Task xxx has terminated.
+top_r->TID=14
+top_r->task_state=ready
+count_ms=73
+Task www is running.
+Task www goes to sleep.
+top_r->TID=15
+top_r->task_state=ready
+count_ms=74
+Task vvv is running.
+Task vvv has terminated.
+top_r->TID=16
+top_r->task_state=ready
+count_ms=75
+Task uuu is running.
+Task uuu goes to sleep.
+top_r->TID=0
+top_r->task_state=
+count_ms=76
+CPU idle.
+top_r->TID=0
+top_r->task_state=
+count_ms=77
+CPU idle.
+top_r->TID=0
+top_r->task_state=
+count_ms=78
+CPU idle.
+top_r->TID=0
+top_r->task_state=
+count_ms=79
+CPU idle.
+top_r->TID=0
+top_r->task_state=
+count_ms=80
+CPU idle.
+top_r->TID=0
+top_r->task_state=
+count_ms=81
+CPU idle.
+top_r->TID=0
+top_r->task_state=
+count_ms=82
+CPU idle.
+top_r->TID=0
+top_r->task_state=
+count_ms=83
+CPU idle.
+top_r->TID=0
+top_r->task_state=
+count_ms=84
+CPU idle.
+top_r->TID=0
+top_r->task_state=
+count_ms=85
+CPU idle.
+top_r->TID=0
+top_r->task_state=
+count_ms=86
+CPU idle.
+top_r->TID=0
+top_r->task_state=
+count_ms=87
+CPU idle.
+top_r->TID=0
+top_r->task_state=
+count_ms=88
+CPU idle.
+top_r->TID=0
+top_r->task_state=
+count_ms=89
+CPU idle.
+top_r->TID=0
+top_r->task_state=
+count_ms=90
+CPU idle.
+top_r->TID=0
+top_r->task_state=
+count_ms=91
+CPU idle.
+top_r->TID=12
+top_r->task_state=ready
+count_ms=92
+Task yyy is running.
+Task yyy has terminated.
+top_r->TID=0
+top_r->task_state=
+count_ms=93
+CPU idle.
+top_r->TID=14
+top_r->task_state=ready
+count_ms=94
+Task www is running.
+Task www has terminated.
+top_r->TID=0
+top_r->task_state=
+count_ms=95
+CPU idle.
+top_r->TID=16
+top_r->task_state=ready
+count_ms=96
+Task uuu is running.
+Task uuu has terminated.
+top_r->TID=0
+top_r->task_state=
+count_ms=97
+CPU idle.
+Simualtion over.
+
+Task mmm is ready.
+Task nnn is ready.
+Task ooo is ready.
+
+Start simulation.
+top_r->TID=17
+top_r->task_state=ready
+count_ms=98
+Task mmm is running.
+17
+Task mmm gets resouces 1.
+17
+Task mmm gets resouces 3.
+17
+Task mmm gets resouces 7.
+Task mmm goes to sleep.
+top_r->TID=18
+top_r->task_state=ready
+count_ms=99
+Task nnn is running.
+Task nnn is waiting resource.
+top_r->TID=19
+top_r->task_state=ready
+count_ms=100
+Task ooo is running.
+top_r->TID=0
+top_r->task_state=
+count_ms=101
+top_r->TID=0
+top_r->task_state=
+count_ms=102
+top_r->TID=0
+top_r->task_state=
+count_ms=103
+top_r->TID=17
+top_r->task_state=ready
+count_ms=104
+top_r->TID=17
+top_r->task_state=ready
+count_ms=105
+top_r->TID=17
+top_r->task_state=ready
+count_ms=106
+top_r->TID=17
+top_r->task_state=ready
+count_ms=107
+top_r->TID=17
+top_r->task_state=ready
+count_ms=108
+top_r->TID=17
+top_r->task_state=ready
+count_ms=109
+top_r->TID=17
+top_r->task_state=ready
+count_ms=110
+top_r->TID=17
+top_r->task_state=ready
+count_ms=111
+top_r->TID=17
+top_r->task_state=ready
+count_ms=112
+top_r->TID=17
+top_r->task_state=ready
+count_ms=113
+top_r->TID=17
+top_r->task_state=ready
+count_ms=114
+top_r->TID=17
+top_r->task_state=ready
+count_ms=115
+top_r->TID=17
+top_r->task_state=ready
+count_ms=116
+top_r->TID=17
+top_r->task_state=ready
+count_ms=117
+top_r->TID=17
+top_r->task_state=ready
+count_ms=118
+top_r->TID=17
+top_r->task_state=ready
+count_ms=119
+top_r->TID=17
+top_r->task_state=ready
+count_ms=120
+top_r->TID=17
+top_r->task_state=ready
+count_ms=121
+top_r->TID=17
+top_r->task_state=ready
+count_ms=122
+top_r->TID=17
+top_r->task_state=ready
+count_ms=123
+top_r->TID=17
+top_r->task_state=ready
+count_ms=124
+top_r->TID=17
+top_r->task_state=ready
+count_ms=125
+top_r->TID=17
+top_r->task_state=ready
+count_ms=126
+top_r->TID=17
+top_r->task_state=ready
+count_ms=127
+top_r->TID=17
+top_r->task_state=ready
+count_ms=128
+top_r->TID=17
+top_r->task_state=ready
+count_ms=129
+top_r->TID=17
+top_r->task_state=ready
+count_ms=130
+top_r->TID=17
+top_r->task_state=ready
+count_ms=131
+top_r->TID=17
+top_r->task_state=ready
+count_ms=132
+top_r->TID=17
+top_r->task_state=ready
+count_ms=133
+Task ooo has terminated.
+top_r->TID=17
+top_r->task_state=ready
+count_ms=134
+Task mmm is running.
+Task mmm releases resource 1.
+Task mmm releases resource 3.
+Task mmm releases resource 7.
+Task mmm has terminated.
+top_r->TID=18
+top_r->task_state=ready
+count_ms=135
+Task nnn is running.
+18
+Task nnn gets resouces 0.
+18
+Task nnn gets resouces 3.
+Task nnn releases resource 0.
+Task nnn releases resource 3.
+Task nnn has terminated.
+top_r->TID=0
+top_r->task_state=
+count_ms=136
+CPU idle.
+Simualtion over.
