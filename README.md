@@ -14,6 +14,6 @@ This repository contains all the assignments I have completed for the **Operatin
 
 ## 3. Scheduling Algorithm Simulation
 - **Objective**: Write and simulate different scheduling algorithms, including Round Robin, First Come First Serve (FCFS), and Priority-Based Preemptive Scheduling. Use `ucontext` to create and manage tasks in user space.
-- **Assignment Details**: [PDF: Scheduling Algorithm Assignment Requirements]([./path/to/assignment3](https://github.com/hsylin/Operating-Systems/blob/main/HW2/2022_OS_HW3.pdf)
+- **Assignment Details**: [PDF: Scheduling Algorithm Assignment Requirements](https://github.com/hsylin/Operating-Systems/blob/main/HW3/2022_OS_HW3.pdf)
 - **Code and Documentation**: The complete implementation and related files are available in the `HW3` directory.
 
