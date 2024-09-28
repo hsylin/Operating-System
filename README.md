@@ -3,7 +3,7 @@
 This repository contains all the assignments I have completed for the **Operating Systems** course. Below is a brief overview of each assignment. You can find more details in the corresponding PDF files and the code in each directory.
 
 ## 1. Shell Implementation
-- **Objective**: Build a simple shell that supports various commands, including multi-pipeline commands, background execution, and more.
+- **Objective**: Build a custom shell that supports various commands, including multi-pipeline commands, background execution, and more.
 - **Assignment Details**: [PDF: Shell Implementation Assignment Requirements](https://github.com/hsylin/Operating-Systems/blob/main/HW1/2022_OS_HW1.pdf)
 - **Code and Documentation**: The complete implementation and related files are available in the `HW1` directory.
 
